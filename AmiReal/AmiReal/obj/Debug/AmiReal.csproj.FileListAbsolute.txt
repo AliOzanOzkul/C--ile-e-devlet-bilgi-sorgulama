@@ -1,0 +1,7 @@
+C:\Users\Ali Ozan\source\repos\AmiReal\AmiReal\bin\Debug\AmiReal.exe.config
+C:\Users\Ali Ozan\source\repos\AmiReal\AmiReal\bin\Debug\AmiReal.exe
+C:\Users\Ali Ozan\source\repos\AmiReal\AmiReal\bin\Debug\AmiReal.pdb
+C:\Users\Ali Ozan\source\repos\AmiReal\AmiReal\obj\Debug\AmiReal.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\source\repos\AmiReal\AmiReal\obj\Debug\AmiReal.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\source\repos\AmiReal\AmiReal\obj\Debug\AmiReal.exe
+C:\Users\Ali Ozan\source\repos\AmiReal\AmiReal\obj\Debug\AmiReal.pdb
